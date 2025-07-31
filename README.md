@@ -36,7 +36,7 @@ How to Use:
 
 1. Clone the repository or download project files
 2. Download the required dataset and model files from the link below:
-   **Google Drive Link:** \[Insert your link here]
+   https://colab.research.google.com/drive/11HjFV5NEZWCUBWa8nueCPOz2X_ePj17_#scrollTo=HintxiLF50HY)
 3. Upload an image into the interface or script environment
 4. Run `generate_caption.py` or use the terminal interface to get the output
 5. The system will display the image along with the predicted caption
